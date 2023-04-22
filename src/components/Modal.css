@@ -1,0 +1,24 @@
+ 
+  .titleCloseBtn {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .titleCloseBtn button {
+    background-color: transparent;
+    border: none;
+    font-size: 1px;
+    cursor: pointer;
+  }
+ 
+
+
+  
+  #cancelBtn {
+    background-color: crimson;
+  }
+ 
+  
+  input[type="text"]:focus {
+    background-color: lightblue;
+  }
